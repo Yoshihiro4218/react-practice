@@ -1,4 +1,6 @@
 # Getting Started with Create React App
+## MEMO
+- アプリケーション作成時のコマンドに --use-npm オプションを付与することで、パッケージマネージャーをnpmに変更することができます。
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
